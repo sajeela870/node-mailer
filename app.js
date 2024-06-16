@@ -13,7 +13,7 @@ async function sendEmail() {
 
     let mailOptions = {
         from: process.env.EMAIL_USER,
-        to: 'krishnapriya18claysys@gmail.com', 
+        to: 'sajeelanoushad123@gmail.com', 
         subject: 'Hello',
         text: 'Hello Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survivedLoincluding versions of Lorem Ipsum.'
     };
